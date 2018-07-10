@@ -1,0 +1,133 @@
+	p{
+	color:red;
+	font-size:30px;
+	}
+	
+	.listitem {
+		color:blue;
+		font-size:20px;
+	}
+	
+	.paragraph{
+		color:green;
+		font-size:10px;
+	}
+	#background {
+		background-color:#00ffff;
+	}
+	
+	#button {
+		width:200px;
+		height:100px;
+		color:orange;
+		background-color:yellow;
+		border-radius:10px;
+	}
+	
+	header {
+		height:200px;
+		width:99%;
+		border:2px solid black;
+		background-color:#ccffff;
+	}
+	
+	footer {
+		height:200px;
+		width:99%;
+		color:blue;
+		border:2px solid black;
+		background-color:#ccffff;
+		margin-right:30px;
+	}
+	
+	.wrap-trivia {
+		height:500px;
+		width:400px;
+		border:5px double red;
+		padding:100px;
+	}
+	
+	.wrap-list {
+		height:400px;
+		width:450px;
+		border:5px dashed green;
+	}
+	.wrap-text {
+		color:#006666;
+		font-size: 50px;
+	}
+	
+	#one {
+		height:150px;
+		width:150px;
+		background-color:red;
+		display:inline-block;
+		position:absolute;
+		z-index:1;
+		}
+	
+	#two {
+		height:150px;
+		width:150px;
+		background-color:blue;
+		display:inline-block;
+		position:fixed;
+		left:25%;
+		z-index:2;
+		}
+		
+	#three {
+		height:150px;
+		width:150px;
+		background-color:green;
+		display:inline-block;
+		position:absolute;
+		}
+	
+	.navitem {
+		list-style-type:none;
+		display:inline;
+		padding-right:1.5em;
+		
+		}	
+	
+	.navmenu {
+	height:250px;
+	width:30px;
+	margin:auto;
+	background-color:orange;
+	
+	}
+	
+	.homelink:hover
+	{color:orange;
+	}
+	
+	.aboutme:visited
+	{color:red;
+	}
+	
+	.contact:active
+	{color:#555888;
+	}
+	
+	#rightside {
+		float:right;
+		width:25%;
+	}
+	
+	#leftside {
+		width:60%;
+	}
+	
+	.clearfloat {
+	clear:right;
+	}
+	
+	
+	
+	
+	
+	
+	
+	
